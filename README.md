@@ -5,7 +5,7 @@ https://brain.js.org
 https://github.com/BrainJS/brain.js/blob/master/README.md
 
 This project is based on the youtube tutorial above, which pulls info from the brain.js repo. My version of the project includes styling and both the diagram and final product together. 
-the live version of the project is rendered at 
+the live version of the project is rendered at: https://color-guesser-neural-net.netlify.app/
 
 To load project, right click index.html file and select 'Open with Live Server'
 
