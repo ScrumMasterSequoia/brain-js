@@ -55,3 +55,9 @@ body {
     width: 400px;
    margin-top: 0em;
 }
+
+.note {
+    font-size: small;
+    text-align: center;
+    margin-top: 0em;
+}
